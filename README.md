@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="bocchi.gif" width="360px"/>
 
-###📝 About Me:
+### 📝 About Me:
 
 - 🔭 &nbsp; I’m currently working on **school project**
 - 🌱 &nbsp; I’m currently learning PHP; 
