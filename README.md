@@ -31,4 +31,5 @@ class Kagami:
         print(f"Currently {age} years old, upcoming birthday age: {age + 1}")
 
 me = Kagami()
-me.my_age()```
+me.my_age()
+```
