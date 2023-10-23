@@ -8,11 +8,11 @@ class Kagami:
         self.technologies = {
             'Web dev': {
                 'frontEnd': {
-                    'js': ['React', 'TypeScript'],
+                    'js': ['TypeScript'],
                     'css': ['Native', 'Tailwind']
                 },
                 'backEnd': {
-                    'php': ['Symfony', 'Laravel'],
+                    'php': ['Laravel'],
                 },
                 'Database': ['MySql', 'sqlite'],
             },
