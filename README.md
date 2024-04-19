@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif" width="60">
 
-<!--
-**Kagamiie/Kagamiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```py
+import datetime
 
-Here are some ideas to get you started:
+class Kagami:
+    def __init__(self):
+        self.language_spoken = ["fr_FR", "en_US"]
+        self.role = "Student"
+        self.ask_me_about = ['Web dev', 'Automation Tool', 'other']
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+            print("Thanks for dropping by, hope you find some of my work interesting.")
+
+me = Kagami()
+me.say_hi()
+```
