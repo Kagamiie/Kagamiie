@@ -1,5 +1,6 @@
-<img src="https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif" width="60">
-
+> [!WARNING]
+> <p>Software by this user may be <b>potentially hazardous</b>. Explore at your own risk.</p> <img src="https://github.githubassets.com/assets/mona-loading-dimmed-5da225352fd7.gif" width="60">
+---
 ```py
 import datetime
 
