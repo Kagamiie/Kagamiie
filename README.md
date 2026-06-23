@@ -9,7 +9,7 @@ class Kagami:
         self.language_spoken = ["fr_FR", "en_US"]
         self.role = "Student in Networks & Telecommunications"
         self.field = "Network Engineering, Telecom Systems, Cybersecurity"
-        self.ask_me_about = ['Network Infrastructure', 'Telecom Protocols', 'C Programming', 'Automation', 'Web Dev']
+        self.ask_me_about = ['Network Infrastructure', 'Telecom Protocols', 'C Programming', 'Automation']
     def say_hi(self):
             print("Thanks for dropping by, hope you find some of my work interesting.")
 
